@@ -57,3 +57,11 @@ ecomart/
 │ └── server.js
 ├── .env.example
 └── README.md
+
+
+💡 Future Improvements
+
+🔌 IoT-based Smart Dustbin Integration (for automatic waste sensing)
+🧠 AI-powered waste classification using TensorFlow.js
+🏬 EcoMart Marketplace for redeeming GreenPoints
+📦 NGO & Recycler onboarding panel (Admin Dashboard)
